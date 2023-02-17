@@ -1,4 +1,10 @@
 #include <stdio.h>
+/**
+ *Main - this in main function
+ *Return always 0
+ */
+
+
 
 int main (void)
 {
