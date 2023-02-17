@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - main function
- * Return: 0mon success
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main (void)
 {
