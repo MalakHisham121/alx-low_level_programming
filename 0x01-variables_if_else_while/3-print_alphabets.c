@@ -4,13 +4,13 @@
  *
  * Return: always 0
  */
-int main (void)
+int main(void)
 {
-	char i;
+	char i ;
 	for (i = 'a' ; i <= 'z' ; i++)
 		putchar(i);
 	for (i = 'A' ; i <= 'Z' ; i++)
 	       putchar(i);
 	putchar('\n');
-	return (i);
+	return (0);
 }
